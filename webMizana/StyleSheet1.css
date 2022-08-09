@@ -1,0 +1,124 @@
+﻿#body {
+    background-image: image("D:\Proyecto Empresa\webMizana\webMizana\Refs\fondoMizana.png");
+    background-color: #a2ad9c;
+}
+#main{
+    
+}
+#cuadPrincipal {
+    background-color: #cccccc;
+    height: 540px;
+    border-radius: 15px;
+    box-shadow: 8px 10px #4e4e4e94;
+}
+#menu {
+    background-color: #a2ad9c;
+    height: 80px;
+   
+    border-radius: 20px;
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    box-shadow: 5px 5px #969696;
+    
+}
+#logo {
+    height: 70px;
+    
+}
+#img{
+    height: 10px;
+    width: 10px;
+}
+#contMenu {
+    display: flex;
+    justify-content: space-between;
+    flex: auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    float: right;
+}
+#lnkArticulos {
+    
+}
+#lnkFAQ {
+    
+}
+#userManag {
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    align-items: center;
+    
+}
+#login {
+    
+}
+#signup {
+    
+}
+#contCuadro {
+    display: flex;
+    justify-content: space-between;
+    flex: auto;
+    flex-direction: row;
+    
+    background-color: #bbbaba80;
+    border-radius: 15px;
+    
+}
+#textoCuadro{
+   
+}
+#contCuadros {
+    display: flex;
+    justify-content: space-between;
+    flex: auto;
+    flex-direction: row;
+    
+}
+#cuadInfo1 {
+    background-color: #abe4ab;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 8px 10px #4e4e4e94;
+}
+#cuadInfo2 {
+    background-color: #cccccc;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 8px 10px #4e4e4e94;
+}
+#cuadInfo3 {
+    background-color: #7a5849;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 8px 10px #4e4e4e94;
+}
+#nombre {
+    font-family: 'Merienda', cursive;
+    color: #7a5849;
+    font-size: 25px;
+}
+
+
+h1 {
+    font-family: 'Merienda', cursive;
+    font-size: 50px;
+    color: #7a5849;
+}
+p, #btnArticulos, #btnFAQ,  {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+/*
+    Cafe: #7a5849
+    Verde: #abe4ab
+    Verde fondo: #a2ad9c
+    Gris: #e0e0e0
+*/
